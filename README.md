@@ -3,6 +3,7 @@
 Modify all the things, then do it again!   
 Melt down any metals you find. 	 
 Power the world with spinning wind!
+Mod originally ported by [Alpha](https://github.com/Alpha-s-Stuff).
 
 ## Issue reporting
 Please include the following:
