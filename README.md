@@ -1,4 +1,4 @@
-# [Hephaestus](https://modrinth.com/mod/hephaestus)
+# [Hephaestus](#)
 
 Modify all the things, then do it again!   
 Melt down any metals you find. 	 
