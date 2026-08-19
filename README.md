@@ -3,7 +3,7 @@
 Modify all the things, then do it again!   
 Melt down any metals you find. 	 
 Power the world with spinning wind!
-Mod originally ported by [Alpha](https://github.com/Alpha-s-Stuff).
+
 
 ## Issue reporting
 Please include the following:
@@ -23,4 +23,7 @@ Code, Textures and binaries are licensed under the [MIT License](https://tldrleg
 You are allowed to use the mod in your modpack.
 Any modpack which uses Hephaestus takes **full** responsibility for user support queries. For anyone else, we only support official builds from the main CI server, not custom built jars. We also do not take bug reports for outdated builds of Minecraft.
 
-Any alternate licenses are noted where appropriate.
+Any alternate licenses are noted where appropriate.</br>
+</br>
+</br>
+## Mod originally created by [Alpha](https://github.com/Alpha-s-Stuff).
